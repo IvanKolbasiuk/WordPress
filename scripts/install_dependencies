@@ -1,0 +1,3 @@
+#!/bin/bash
+yum install -y httpd php70 mysql56-server php70-mysqlnd
+
